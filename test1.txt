@@ -7,3 +7,4 @@ int d = 82;
 string y = "why";
 string z = "why not";
 string a = "lots o fun";
+string b = "lots o fun";
